@@ -10,15 +10,15 @@
               .   '';;;;;;;;;,;;;;@@@@@;;' ,.:;'      (c) 2026 n0wte. All rights reserved.
                 ''..,,     ''''    '  .,;'
                      ''''''::''''''''
----
+##
 ```
 about this project,
 ```
----
+##
 ```
 how do i use this tool?
 ```
----
+##
 ```
 greetings
 ```
